@@ -19,3 +19,9 @@
     background-color: #ddd;
     color: black;
 }
+
+<div class="topnav">
+  <a href="#">Home</a>
+  <a href="#">Hobbies/Sports</a>
+  <a href="#">Early Life</a>
+</div>
